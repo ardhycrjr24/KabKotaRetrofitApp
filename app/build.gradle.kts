@@ -62,6 +62,8 @@ dependencies {
 
     implementation("com.github.MikeOrtiz:TouchImageView:1.4.1")
 
+    implementation("com.airbnb.android:lottie:6.4.0")
+
     testImplementation(libs.junit)
 
     androidTestImplementation(libs.androidx.junit)
