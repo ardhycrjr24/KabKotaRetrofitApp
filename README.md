@@ -1,13 +1,13 @@
-## PRAKTIKUM 12 - KabKotaRetrofitApp - Pemrograman Mobile II - ARDIANSYAH
+### PRAKTIKUM 12 - KabKotaRetrofitApp - Pemrograman Mobile II - ARDIANSYAH
 
 Aplikasi Android praktikum menggunakan Retrofit API 
 
-## Original Author
+### Original Author
 
 **Ardiansyah**
 GitHub: @ardhycrjr24
 
-## Repository Information
+### Repository Information
 
 Repository ini dibuat untuk:
 
@@ -15,7 +15,7 @@ Repository ini dibuat untuk:
 * praktikum Android,
 * eksplorasi implementasi Retrofit dan UI Android.
 
-## Technical Notes
+### Technical Notes
 
 Project ini menggunakan:
 
@@ -25,7 +25,7 @@ Project ini menggunakan:
 * Material Design 3
 * Lottie Animation
 
-## Build Information
+### Build Information
 
 Repository resmi menyimpan histori commit dan pengembangan project secara bertahap melalui Git.
 
