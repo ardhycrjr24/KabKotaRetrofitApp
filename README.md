@@ -1,4 +1,4 @@
-# KabKotaRetrofitApp - Praktikum Modul 12
+# PRAKTIKUM 12 - KabKotaRetrofitApp - Pemrograman Mobile II - ARDIANSYAH
 
 Aplikasi Android praktikum menggunakan Retrofit API 
 
